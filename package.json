@@ -1,9 +1,12 @@
 {
   "name": "@shelf/postcss-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shared poscss.config.js across Shelf Apps ",
   "main": "next.js",
-  "files": ["next.js", "next-lite.js"],
+  "files": [
+    "next.js",
+    "next-lite.js"
+  ],
   "scripts": {
     "test": "echo ok"
   },

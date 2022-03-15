@@ -1,0 +1,26 @@
+{
+  "name": "@shelf/postcss-config",
+  "version": "0.0.1",
+  "description": "Shared poscss.config.js across Shelf Apps ",
+  "main": "next.js",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelfio/postcss-config.git"
+  },
+  "keywords": [
+    "nextjs",
+    "postcss"
+  ],
+  "author": "Mykyta Khmel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shelfio/postcss-config/issues"
+  },
+  "homepage": "https://github.com/shelfio/postcss-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
